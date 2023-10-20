@@ -1,0 +1,31 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    margin-bottom: 20px;
+    
+}
+.go{
+    font-size: 18px;
+    color:hsl(220, 15%, 55%);
+}
+.card{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: white;
+    border-radius: 15px;
+}
+#yes{
+    margin-top: 13px;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+img{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px;
+}
+h2{
+    color:hsl(218, 44%, 22%)
+}
